@@ -1,65 +1,65 @@
-# Iklakh Hussain - Resume
+# Hi, I'm Iklakh Hussain 👋
 
-![Profile](./profile.jpg)  
-_(Replace the image URL with your actual profile picture if you want)_
+🚀 **Full-Stack Web Developer | MERN Stack Enthusiast**
 
----
-
-## 📇 Contact
-
-- **Email:** your.email@example.com
-- **Phone:** +91-XXXXXXXXXX
-- **LinkedIn:** [linkedin.com/in/iklak](https://linkedin.com/in/iklak)
-- **GitHub:** [github.com/Iklak](https://github.com/Iklak)
+I’m a motivated full-stack developer specializing in the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
+I love building responsive, dynamic, and user-friendly web applications with modern JavaScript frameworks and RESTful APIs.
 
 ---
 
-## 💻 Skills
+## 🧑‍💻 About Me
 
-- **Front-end:** React, Vite, Tailwind CSS, HTML, CSS, JavaScript
-- **Back-end:** Node.js, Express.js, SQL, MongoDB
-- **Tools & Others:** Git, GitHub, VS Code, Agile workflow
-
----
-
-## 🎓 Education
-
-| Degree | Institution          | Year |
-| ------ | -------------------- | ---- |
-| MCA    | Galgotias University | 2025 |
+- 🎓 Completed **MCA at Galgotias University** (2023–2025)
+- 🎓 Completed **BCA at Hansraj College** (2020–2023)
+- 💡 Strong interest in **building scalable web apps & solving real-world problems**
+- ⚡ Always learning & contributing to open-source
 
 ---
 
-## 🏆 Projects
+## 🔨 Tech Stack
 
-### 1. React Resume Website
-
-- Built a fully responsive resume using **React + Vite + Tailwind CSS**.
-- Hosted on **GitHub Pages**: [View Online](https://iklak.github.io/resume/)
-
-### 2. [Other Project Name]
-
-- Brief description of project, technologies used, and outcome.
-- [GitHub Repo Link](#)
+- **Languages & Tools:** JavaScript, Core Java, HTML, CSS, SQL
+- **Frameworks & Libraries:** Node.js, Express.js, React.js, MongoDB
+- **Other Skills:** REST APIs, Git, DSA, Project Management, Problem Solving
 
 ---
 
-## 💼 Work Experience
+## 🚀 Projects
 
-| Company         | Role                      | Duration            |
-| --------------- | ------------------------- | ------------------- |
-| Example Company | Software Developer Intern | Jan 2024 – Jun 2024 |
+### 🏋️ Gym Management Website
 
----
+📌 [Repository Link](https://github.com/Iklak/Gym-management-web-app)
 
-## 🌐 GitHub Pages
-
-You can view my interactive resume here:  
-[**Iklakh Hussain Resume**](https://iklak.github.io/resume/)
+- Responsive fitness and gym management website built with **React.js, Node.js, Express.js, and MongoDB**
+- Features: membership plans, trainer profiles, contact form with backend integration
 
 ---
 
-## 📌 Notes
+### 🍔 Food Delivery Application
 
-- This repository is continuously updated with new projects and skills.
-- Feel free to explore my code and connect with me on LinkedIn.
+📌 [Repository Link](https://github.com/Iklak/Food-delivery-website)
+
+- Web-based food ordering platform with **customer & admin dashboards**
+- Features: browse menu, add to cart, place orders, make payments
+- Built using **React.js frontend + Node.js & Express.js backend** with REST APIs
+
+---
+
+### 🏠 Real Estate Application
+
+📌 [Repository Link](https://github.com/Iklak/Real-state-application-using-react)
+
+- Full-stack property listing app with **search & filter features** (location, price, type)
+- Built with **React, Node.js, Express.js, MongoDB**
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [Iklakhhussain1503@gmail.com](mailto:Iklakhhussain1503@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/iklakh-hussain](https://linkedin.com/in/iklakh-hussain)
+- 🌐 GitHub: [github.com/Iklak](https://github.com/Iklak)
+
+---
+
+⭐️ If you like my work, don’t forget to star the repositories!
