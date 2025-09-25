@@ -1,16 +1,65 @@
-# React + Vite
+# Iklakh Hussain - Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Profile](./profile.jpg)  
+_(Replace the image URL with your actual profile picture if you want)_
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📇 Contact
 
-## React Compiler
+- **Email:** your.email@example.com
+- **Phone:** +91-XXXXXXXXXX
+- **LinkedIn:** [linkedin.com/in/iklak](https://linkedin.com/in/iklak)
+- **GitHub:** [github.com/Iklak](https://github.com/Iklak)
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 💻 Skills
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Front-end:** React, Vite, Tailwind CSS, HTML, CSS, JavaScript
+- **Back-end:** Node.js, Express.js, SQL, MongoDB
+- **Tools & Others:** Git, GitHub, VS Code, Agile workflow
+
+---
+
+## 🎓 Education
+
+| Degree | Institution          | Year |
+| ------ | -------------------- | ---- |
+| MCA    | Galgotias University | 2025 |
+
+---
+
+## 🏆 Projects
+
+### 1. React Resume Website
+
+- Built a fully responsive resume using **React + Vite + Tailwind CSS**.
+- Hosted on **GitHub Pages**: [View Online](https://iklak.github.io/resume/)
+
+### 2. [Other Project Name]
+
+- Brief description of project, technologies used, and outcome.
+- [GitHub Repo Link](#)
+
+---
+
+## 💼 Work Experience
+
+| Company         | Role                      | Duration            |
+| --------------- | ------------------------- | ------------------- |
+| Example Company | Software Developer Intern | Jan 2024 – Jun 2024 |
+
+---
+
+## 🌐 GitHub Pages
+
+You can view my interactive resume here:  
+[**Iklakh Hussain Resume**](https://iklak.github.io/resume/)
+
+---
+
+## 📌 Notes
+
+- This repository is continuously updated with new projects and skills.
+- Feel free to explore my code and connect with me on LinkedIn.
